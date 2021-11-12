@@ -6,7 +6,7 @@ WORKDIR /java
 COPY Program.java /java
 
 #compile file java
-RUN javac program.java
+RUN javac Program.java
 
 #running java
-ENTRYPOINT java program
+ENTRYPOINT java Program
