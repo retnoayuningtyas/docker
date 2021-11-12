@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package program;
+package Program;
 import java.util.Scanner;
 /**
  *
  * @author 
  */
-public class program {
+public class Program {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
       
